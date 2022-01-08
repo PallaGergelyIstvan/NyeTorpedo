@@ -1,2 +1,2 @@
 # Torpedo
-Torpedo game homework to Nye-Progtech
+Torpedo game work for Nye Progtech
