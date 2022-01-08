@@ -1,0 +1,12 @@
+torpedo\Main.class
+torpedo\service\Game.class
+torpedo\model\Draw.class
+torpedo\service\AiVsP.class
+torpedo\service\Start.class
+torpedo\configuration\ApplicationConfiguration.class
+torpedo\service\End.class
+torpedo\model\ShipMap.class
+torpedo\service\PlayerVsP.class
+torpedo\model\ShootMap.class
+torpedo\service\AiVsAi.class
+torpedo\repository\DataBase.class
